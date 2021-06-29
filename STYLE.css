@@ -1,0 +1,18 @@
+p{ 
+	color:RED;
+	font-size:30px;
+	text-align: center;
+	font-family: arial green ;
+	font-weight:bold;
+	font-style:italic;
+	border:20px dotted OLIVE;
+	background-color:yellow;
+	padding: 10px;
+	Margin: 6px;
+	text-transform: capitalize;
+}
+ul,ol{
+	list-style-type:decimal;
+}
+body{background-color:green;}
+img{ float:right; margin-right: 250px;}
